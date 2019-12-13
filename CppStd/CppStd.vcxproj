@@ -139,6 +139,9 @@
     <ClInclude Include="Type.h" />
     <ClInclude Include="ValueType.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
